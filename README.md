@@ -1,2 +1,1 @@
-# MRtestwebapp
-test for segment CDP
+# ericwishom.github.io
